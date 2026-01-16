@@ -1,0 +1,15 @@
+{
+    "status": "SUCCESS",
+    "message": "Dashboard analytics retrieved successfully",
+    "responseCode": 20000,
+    "data": {
+        "totalOrders": {
+            "current": 9,
+            "changePercent": 800.0
+        },
+        "revenue": {
+            "current": 11565.00,
+            "changePercent": 800.0
+        }
+    }
+}

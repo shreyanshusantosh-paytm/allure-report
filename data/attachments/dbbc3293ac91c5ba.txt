@@ -1,0 +1,1520 @@
+{
+    "status": "SUCCESS",
+    "message": "SUCCESS",
+    "responseCode": 20000,
+    "data": {
+        "status": "SUCCESS",
+        "message": "Products retrieved successfully",
+        "responseCode": 20000,
+        "data": {
+            "content": [
+                {
+                    "id": 585,
+                    "countryCode": null,
+                    "createdAt": "2026-01-16T05:15:12.000+00:00",
+                    "updatedAt": "2026-01-16T05:15:12.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Iphone-21756",
+                    "name": "Iphone 21756",
+                    "description": "Latest flagship iPhone with titanium design",
+                    "longDescription": "The iPhone 21456 Pro Max features a Grade 5 titanium design, A17 Pro chip, advanced camera system, and all-day battery life.",
+                    "productType": "DEVICE",
+                    "productSubtype": "MOBILE",
+                    "url": "https://example.com/iphone-21756-pro-max",
+                    "multidimensional": false,
+                    "hasVariants": true,
+                    "variantCount": 0,
+                    "sku": "APL-IPHS-2145-21756",
+                    "s4HanaSku": null,
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Apple",
+                    "productStatus": "UNPUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        "APPLE_WATCH_ULTRA",
+                        "MAGSAFE_CHARGER"
+                    ],
+                    "productsBroughtTogether": [
+                        "SCREEN_PROTECTOR_IPHONE15",
+                        "USB_C_CABLE_20W"
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "SMARTPHONES",
+                    "categories": [
+                        {
+                            "id": 202,
+                            "categoryCode": "SMARTPHONES",
+                            "categoryName": "Smartphones",
+                            "primary": false
+                        },
+                        {
+                            "id": 203,
+                            "categoryCode": "PREMIUM_SMARTPHONES",
+                            "categoryName": "Premium Smartphones",
+                            "primary": false
+                        },
+                        {
+                            "id": 204,
+                            "categoryCode": "BRAND_APPLE",
+                            "categoryName": "Brand Apple",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "pricing": null,
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 584,
+                    "countryCode": null,
+                    "createdAt": "2026-01-16T05:05:35.000+00:00",
+                    "updatedAt": "2026-01-16T05:05:36.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Iphone-21456",
+                    "name": "Iphone 21456",
+                    "description": "Latest flagship iPhone with titanium design",
+                    "longDescription": "The iPhone 21456 Pro Max features a Grade 5 titanium design, A17 Pro chip, advanced camera system, and all-day battery life.",
+                    "productType": "DEVICE",
+                    "productSubtype": null,
+                    "url": "https://example.com/iphone-2145-pro-max",
+                    "multidimensional": false,
+                    "hasVariants": true,
+                    "variantCount": 0,
+                    "sku": "APL-IPHS-2145-21456",
+                    "s4HanaSku": null,
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Apple",
+                    "productStatus": "UNPUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        "APPLE_WATCH_ULTRA",
+                        "MAGSAFE_CHARGER"
+                    ],
+                    "productsBroughtTogether": [
+                        "SCREEN_PROTECTOR_IPHONE15",
+                        "USB_C_CABLE_20W"
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "SMARTPHONES",
+                    "categories": [
+                        {
+                            "id": 202,
+                            "categoryCode": "SMARTPHONES",
+                            "categoryName": "Smartphones",
+                            "primary": false
+                        },
+                        {
+                            "id": 203,
+                            "categoryCode": "PREMIUM_SMARTPHONES",
+                            "categoryName": "Premium Smartphones",
+                            "primary": false
+                        },
+                        {
+                            "id": 204,
+                            "categoryCode": "BRAND_APPLE",
+                            "categoryName": "Brand Apple",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "pricing": null,
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 579,
+                    "countryCode": null,
+                    "createdAt": "2026-01-15T09:50:38.000+00:00",
+                    "updatedAt": "2026-01-15T09:50:38.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "SUNTHARUMDOLORES",
+                    "name": "Marsden Harrison",
+                    "description": "Voluptatem voluptates est et magnam magnam qui minim sit magnam minima proident tempor",
+                    "longDescription": "Autem corporis esse excepturi voluptas recusandae Odit non voluptatem Consequatur in sit et veritatis cillum do veniam error",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": "Id et recusandae Pa",
+                    "multidimensional": false,
+                    "hasVariants": true,
+                    "variantCount": 0,
+                    "sku": "Magnamnesciuntadi",
+                    "s4HanaSku": "Ettemporesolutan",
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Natus officia dolore",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        {
+                            "id": 251,
+                            "imageName": "Eligendasf -unnamed-1768470806918.jpg",
+                            "relativePath": "variants/Eligendasf /Eligendasf -unnamed-1768470806918.jpg",
+                            "domainUrl": "",
+                            "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/variants/Eligendasf /Eligendasf -unnamed-1768470806918.jpg",
+                            "s3Key": null,
+                            "contentType": "image/png",
+                            "altText": "unnamed",
+                            "displayOrder": 1,
+                            "isDefault": true,
+                            "status": "SUCCESS",
+                            "uploadVerified": true,
+                            "errorMessage": null
+                        }
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 5,
+                            "categoryCode": "5G_PLANS",
+                            "categoryName": "5g Plans",
+                            "primary": true
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "id": 346,
+                            "variantCode": "Eligendasf ",
+                            "variantName": "Connor Flynn",
+                            "productId": 579,
+                            "productCode": "SUNTHARUMDOLORES",
+                            "productName": "Marsden Harrison",
+                            "sku": "Omndsfa",
+                            "s4HanaSku": "Fugiatconsectetur ",
+                            "description": "Dolore eiusmod unde ",
+                            "basePrice": 631.0,
+                            "sellingPrice": 232.0,
+                            "stockQuantity": 0,
+                            "isDefault": false,
+                            "isActive": true,
+                            "isEnabled": true,
+                            "isDeleted": false,
+                            "productStatus": "ACTIVE",
+                            "tenantCode": "PA",
+                            "variantSpecifications": {
+                                
+                            },
+                            "inventory": {
+                                "journey": null,
+                                "plant": "Magnam proident nih",
+                                "location": "Delectus et ea nesc",
+                                "id": 492,
+                                "country_code": null,
+                                "created_at": "2026-01-15T09:52:32.000+00:00",
+                                "updated_at": "2026-01-15T09:53:08.000+00:00",
+                                "created_by": "admin@paytm.com",
+                                "updated_by": "admin@paytm.com",
+                                "s4_hana_sku": "Fugiatconsectetur ",
+                                "sku": "Omndsfa",
+                                "product_code": null,
+                                "name": null,
+                                "variant_code": "Eligendasf ",
+                                "tenant_code": "PA",
+                                "mapping_type": "VARIANT",
+                                "stock_level_count": 23,
+                                "stock_level_status": "LOW_STOCK",
+                                "low_stock_threshold": 23,
+                                "reserved_quantity": 538,
+                                "back_order_enabled": false,
+                                "reason_of_update": null,
+                                "is_active": true
+                            },
+                            "plans": [
+                                
+                            ],
+                            "pricing": {
+                                "prices": [
+                                    {
+                                        "priceId": 419,
+                                        "productId": 579,
+                                        "variantId": 346,
+                                        "productCode": "SUNTHARUMDOLORES",
+                                        "variantCode": "Eligendasf ",
+                                        "currency": "USD",
+                                        "value": "23",
+                                        "formatted": null,
+                                        "priceType": "ONE_TIME",
+                                        "regularPrice": null,
+                                        "comparePrice": null,
+                                        "savingsPercentage": null,
+                                        "priceLabel": "asfd",
+                                        "chargeType": null,
+                                        "billingEvent": null,
+                                        "billingFrequency": null,
+                                        "lines": 23,
+                                        "duration": null,
+                                        "isActive": true,
+                                        "isDefault": false
+                                    }
+                                ],
+                                "productOfferingPrice": [
+                                    
+                                ],
+                                "installments": [
+                                    
+                                ]
+                            },
+                            "images": [
+                                {
+                                    "id": 251,
+                                    "imageName": "Eligendasf -unnamed-1768470806918.jpg",
+                                    "relativePath": "variants/Eligendasf /Eligendasf -unnamed-1768470806918.jpg",
+                                    "domainUrl": "",
+                                    "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/variants/Eligendasf /Eligendasf -unnamed-1768470806918.jpg",
+                                    "s3Key": null,
+                                    "contentType": "image/png",
+                                    "altText": "unnamed",
+                                    "displayOrder": 1,
+                                    "isDefault": true,
+                                    "status": "SUCCESS",
+                                    "uploadVerified": true,
+                                    "errorMessage": null
+                                }
+                            ],
+                            "journey": {
+                                "journeyCode": "JOURNEY-2026-PROD-F98C5D5F-005",
+                                "journeyStatus": "IN_PROGRESS",
+                                "currentStep": "IMAGES",
+                                "completedSteps": [
+                                    "BASIC_INFO",
+                                    "VARIANTS",
+                                    "PRICING",
+                                    "INVENTORY"
+                                ],
+                                "productCode": "SUNTHARUMDOLORES",
+                                "entityType": "PRODUCT"
+                            },
+                            "createdAt": "2026-01-15T09:52:32.000+00:00",
+                            "updatedAt": "2026-01-15T09:52:32.000+00:00",
+                            "createdBy": null,
+                            "updatedBy": null,
+                            "countryCode": null
+                        }
+                    ],
+                    "taxes": [
+                        
+                    ],
+                    "pricing": null,
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 578,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T12:17:10.000+00:00",
+                    "updatedAt": "2026-01-14T12:19:34.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "PRODUCT_TEST_123",
+                    "name": "iphone_15",
+                    "description": "dfdgfb",
+                    "longDescription": "asfdc",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": "dsafcvb",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "sku_123",
+                    "s4HanaSku": "s4hana_sku_123",
+                    "basePrice": 120000.0,
+                    "sellingPrice": 12000.0,
+                    "brand": "Apple",
+                    "productStatus": "PUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        {
+                            "id": 250,
+                            "imageName": "PRODUCT_TEST_123-iphone_15-1768393303455.jpg",
+                            "relativePath": "products/PRODUCT_TEST_123/PRODUCT_TEST_123-iphone_15-1768393303455.jpg",
+                            "domainUrl": "",
+                            "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/products/PRODUCT_TEST_123/PRODUCT_TEST_123-iphone_15-1768393303455.jpg",
+                            "s3Key": null,
+                            "contentType": "image/png",
+                            "altText": "This is the best phone",
+                            "displayOrder": 1,
+                            "isDefault": true,
+                            "status": "SUCCESS",
+                            "uploadVerified": true,
+                            "errorMessage": null
+                        }
+                    ],
+                    "specifications": {
+                        "ahsedjfgkhbn": "dsafgh"
+                    },
+                    "plans": [
+                        {
+                            "id": 7,
+                            "planCode": "PLAN-MIX-MAX-105434",
+                            "name": "Mix Max - Unlimited Premium",
+                            "basePrice": null,
+                            "sellingPrice": null
+                        }
+                    ],
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 59,
+                            "categoryCode": "BRAND_APPLE",
+                            "categoryName": "Brand Apple",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        {
+                            "id": 59,
+                            "name": "========================---",
+                            "rate": 90.0,
+                            "type": null,
+                            "description": null
+                        }
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": {
+                        "journey": null,
+                        "plant": null,
+                        "location": null,
+                        "id": 491,
+                        "country_code": "US",
+                        "created_at": "2026-01-14T12:19:52.000+00:00",
+                        "updated_at": "2026-01-14T12:19:52.000+00:00",
+                        "created_by": "admin@paytm.com",
+                        "updated_by": null,
+                        "s4_hana_sku": "s4hana_sku_123",
+                        "sku": "sku_123",
+                        "product_code": "PRODUCT_TEST_123",
+                        "name": null,
+                        "variant_code": null,
+                        "tenant_code": "PA",
+                        "mapping_type": "PRODUCT",
+                        "stock_level_count": 345,
+                        "stock_level_status": "PENDING",
+                        "low_stock_threshold": 15,
+                        "reserved_quantity": 0,
+                        "back_order_enabled": true,
+                        "reason_of_update": null,
+                        "is_active": true
+                    },
+                    "journey": null
+                },
+                {
+                    "id": 577,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T10:38:54.000+00:00",
+                    "updatedAt": "2026-01-14T11:11:51.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "RFEF",
+                    "name": "ferfe",
+                    "description": null,
+                    "longDescription": null,
+                    "productType": "PLAN",
+                    "productSubtype": "PREPAID",
+                    "url": null,
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "refer4545",
+                    "s4HanaSku": null,
+                    "basePrice": 434.0,
+                    "sellingPrice": 3.0,
+                    "brand": "frefe",
+                    "productStatus": "PUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "CATALOG_MOBILE_2024",
+                    "categories": [
+                        {
+                            "id": 84,
+                            "categoryCode": "tessst",
+                            "categoryName": "tessst",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": {
+                        "journey": null,
+                        "plant": null,
+                        "location": null,
+                        "id": 489,
+                        "country_code": "US",
+                        "created_at": "2026-01-14T11:11:54.000+00:00",
+                        "updated_at": "2026-01-14T11:11:54.000+00:00",
+                        "created_by": "admin@paytm.com",
+                        "updated_by": null,
+                        "s4_hana_sku": "",
+                        "sku": "refer4545",
+                        "product_code": "RFEF",
+                        "name": null,
+                        "variant_code": null,
+                        "tenant_code": "PA",
+                        "mapping_type": "PRODUCT",
+                        "stock_level_count": 34,
+                        "stock_level_status": "PENDING",
+                        "low_stock_threshold": 10,
+                        "reserved_quantity": 0,
+                        "back_order_enabled": false,
+                        "reason_of_update": null,
+                        "is_active": true
+                    },
+                    "journey": null
+                },
+                {
+                    "id": 576,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T10:34:40.000+00:00",
+                    "updatedAt": "2026-01-14T10:34:50.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "DOLORESENIMVEROAS",
+                    "name": "Xandra Harrison",
+                    "description": "Dolores rem id aliquam odit vero consequatur Ipsa labore aut proident minim dolorem libero enim reiciendis veritatis aut",
+                    "longDescription": "Vitae nulla labore deserunt sit maxime eligendi architecto enim consectetur in quaerat soluta",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": "Porro voluptates dis",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Doloribusblanditiis",
+                    "s4HanaSku": "Voluptatemanimias",
+                    "basePrice": 23.0,
+                    "sellingPrice": 3.0,
+                    "brand": "Qui nesciunt elit ",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "CATALOG_MOBILE_2024",
+                    "categories": [
+                        {
+                            "id": 65,
+                            "categoryCode": "test2",
+                            "categoryName": "test2",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": [
+                            {
+                                "priceId": 416,
+                                "productId": 576,
+                                "variantId": null,
+                                "productCode": "DOLORESENIMVEROAS",
+                                "variantCode": null,
+                                "currency": "USD",
+                                "value": "22.95",
+                                "formatted": null,
+                                "priceType": "ONE_TIME",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "hello",
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": null,
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            },
+                            {
+                                "priceId": 417,
+                                "productId": 576,
+                                "variantId": null,
+                                "productCode": "DOLORESENIMVEROAS",
+                                "variantCode": null,
+                                "currency": "USD",
+                                "value": "23",
+                                "formatted": null,
+                                "priceType": "ONE_TIME",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "hello2",
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": null,
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            }
+                        ],
+                        "productOfferingPrice": null,
+                        "installments": [
+                            {
+                                "id": 583,
+                                "productCode": "DOLORESENIMVEROAS",
+                                "variantCode": null,
+                                "months": 23,
+                                "monthlyAmount": 23.0,
+                                "totalAmount": null,
+                                "formatted": null,
+                                "interestRate": 32.0,
+                                "isDefault": true,
+                                "upFrontPayment": 23.0
+                            }
+                        ]
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 575,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T10:17:54.000+00:00",
+                    "updatedAt": "2026-01-14T10:17:54.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "IPHONE_14",
+                    "name": "IPHONE 14",
+                    "description": "IPHPONE ",
+                    "longDescription": "heqhewqieoewq",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": null,
+                    "multidimensional": false,
+                    "hasVariants": true,
+                    "variantCount": 0,
+                    "sku": "IPHONE_14",
+                    "s4HanaSku": "IPHONE_14PROD",
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "APPLE",
+                    "productStatus": "UNPUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        "123",
+                        "324",
+                        "435"
+                    ],
+                    "productsBroughtTogether": [
+                        "234",
+                        "24335",
+                        "3535"
+                    ],
+                    "images": [
+                        {
+                            "id": 249,
+                            "imageName": "IPHONE_14_BLACK_128-front-1768389299348.jpg",
+                            "relativePath": "variants/IPHONE_14_BLACK_128/IPHONE_14_BLACK_128-front-1768389299348.jpg",
+                            "domainUrl": "https://dev.static.commerce.lla.digital",
+                            "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/variants/IPHONE_14_BLACK_128/IPHONE_14_BLACK_128-front-1768389299348.jpg",
+                            "s3Key": null,
+                            "contentType": "",
+                            "altText": "",
+                            "displayOrder": 0,
+                            "isDefault": true,
+                            "status": "SUCCESS",
+                            "uploadVerified": true,
+                            "errorMessage": null
+                        }
+                    ],
+                    "specifications": {
+                        "Battery ": "lithium ion "
+                    },
+                    "plans": null,
+                    "catalogCode": "MOBILE_CATALOG_2024",
+                    "categories": [
+                        {
+                            "id": 43,
+                            "categoryCode": "SMARTPHONE",
+                            "categoryName": "Smartphones",
+                            "primary": true
+                        },
+                        {
+                            "id": 31,
+                            "categoryCode": "TEST_CATEGORY",
+                            "categoryName": "Test Category",
+                            "primary": false
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "id": 345,
+                            "variantCode": "IPHONE_14_BLACK_128",
+                            "variantName": "IPHONE_14_BLACK_128",
+                            "productId": 575,
+                            "productCode": "IPHONE_14",
+                            "productName": "IPHONE 14",
+                            "sku": "IPHONE_14_BLACK_128",
+                            "s4HanaSku": "IPHONE_14_BLACK_128",
+                            "description": "eqghhrfkwwe",
+                            "basePrice": 1100.0,
+                            "sellingPrice": 1000.0,
+                            "stockQuantity": 0,
+                            "isDefault": true,
+                            "isActive": true,
+                            "isEnabled": true,
+                            "isDeleted": false,
+                            "productStatus": "UNPUBLISHED",
+                            "tenantCode": "PA",
+                            "variantSpecifications": {
+                                "STORAGE": "128",
+                                "COLOR": "BLACK",
+                                "RAM": "8GB "
+                            },
+                            "inventory": {
+                                "journey": null,
+                                "plant": "PANAMA",
+                                "location": "South ",
+                                "id": 490,
+                                "country_code": null,
+                                "created_at": "2026-01-14T11:15:12.000+00:00",
+                                "updated_at": "2026-01-14T11:20:44.000+00:00",
+                                "created_by": "admin@paytm.com",
+                                "updated_by": "admin@paytm.com",
+                                "s4_hana_sku": "IPHONE_14_BLACK_128",
+                                "sku": "IPHONE_14_BLACK_128",
+                                "product_code": null,
+                                "name": null,
+                                "variant_code": "IPHONE_14_BLACK_128",
+                                "tenant_code": "PA",
+                                "mapping_type": "VARIANT",
+                                "stock_level_count": 100,
+                                "stock_level_status": "IN_STOCK",
+                                "low_stock_threshold": 10,
+                                "reserved_quantity": 5,
+                                "back_order_enabled": true,
+                                "reason_of_update": null,
+                                "is_active": true
+                            },
+                            "plans": [
+                                
+                            ],
+                            "pricing": {
+                                "prices": [
+                                    {
+                                        "priceId": 418,
+                                        "productId": 575,
+                                        "variantId": 345,
+                                        "productCode": "IPHONE_14",
+                                        "variantCode": "IPHONE_14_BLACK_128",
+                                        "currency": "USD",
+                                        "value": "1100",
+                                        "formatted": null,
+                                        "priceType": "ONE_TIME",
+                                        "regularPrice": null,
+                                        "comparePrice": null,
+                                        "savingsPercentage": null,
+                                        "priceLabel": "Full Price",
+                                        "chargeType": null,
+                                        "billingEvent": null,
+                                        "billingFrequency": null,
+                                        "lines": null,
+                                        "duration": null,
+                                        "isActive": true,
+                                        "isDefault": false
+                                    }
+                                ],
+                                "productOfferingPrice": [
+                                    
+                                ],
+                                "installments": [
+                                    {
+                                        "id": 584,
+                                        "productCode": "IPHONE_14",
+                                        "variantCode": "IPHONE_14_BLACK_128",
+                                        "months": 12,
+                                        "monthlyAmount": 80.0,
+                                        "totalAmount": null,
+                                        "formatted": null,
+                                        "interestRate": 0.0,
+                                        "isDefault": true,
+                                        "upFrontPayment": 100.0
+                                    },
+                                    {
+                                        "id": 585,
+                                        "productCode": "IPHONE_14",
+                                        "variantCode": "IPHONE_14_BLACK_128",
+                                        "months": 24,
+                                        "monthlyAmount": 40.0,
+                                        "totalAmount": null,
+                                        "formatted": null,
+                                        "interestRate": 0.0,
+                                        "isDefault": false,
+                                        "upFrontPayment": 100.0
+                                    }
+                                ]
+                            },
+                            "images": [
+                                {
+                                    "id": 249,
+                                    "imageName": "IPHONE_14_BLACK_128-front-1768389299348.jpg",
+                                    "relativePath": "variants/IPHONE_14_BLACK_128/IPHONE_14_BLACK_128-front-1768389299348.jpg",
+                                    "domainUrl": "https://dev.static.commerce.lla.digital",
+                                    "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/variants/IPHONE_14_BLACK_128/IPHONE_14_BLACK_128-front-1768389299348.jpg",
+                                    "s3Key": null,
+                                    "contentType": "",
+                                    "altText": "",
+                                    "displayOrder": 0,
+                                    "isDefault": true,
+                                    "status": "SUCCESS",
+                                    "uploadVerified": true,
+                                    "errorMessage": null
+                                }
+                            ],
+                            "journey": {
+                                "journeyCode": "JOURNEY-2026-PROD-EC111FD0-001",
+                                "journeyStatus": "COMPLETED",
+                                "currentStep": "VARIANTS",
+                                "completedSteps": [
+                                    "BASIC_INFO",
+                                    "VARIANTS",
+                                    "PRICING",
+                                    "INVENTORY",
+                                    "SPECIFICATIONS",
+                                    "TAX_CONFIGURATION"
+                                ],
+                                "nextSuggestedStep": "IMAGES",
+                                "productCode": "IPHONE_14",
+                                "entityType": "PRODUCT"
+                            },
+                            "createdAt": "2026-01-14T11:15:12.000+00:00",
+                            "updatedAt": "2026-01-14T11:15:12.000+00:00",
+                            "createdBy": null,
+                            "updatedBy": null,
+                            "countryCode": null
+                        }
+                    ],
+                    "taxes": [
+                        {
+                            "id": 62,
+                            "name": "new test tax",
+                            "rate": 0.0,
+                            "type": null,
+                            "description": null
+                        }
+                    ],
+                    "pricing": null,
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 574,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T09:53:44.000+00:00",
+                    "updatedAt": "2026-01-14T09:53:45.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "DB_TEST_PROD_u9pps5",
+                    "name": "Naaptlvtzn",
+                    "description": "Automation generated long description is40i6ceu1279olcok8dy966fv5jl0r2ankbxeigst8vmwxqarkd091ag6r681ugwvxwa2gntz4itznlcxftc9vhqc5qc802jfmpcp7fja4hnzmzhk4yxnk4nd6xtpy4nzwnzez1gzfcv2gatin88dolceydyckrg89toqnbrhamm1ro0boqogam9ueighetxdrdr9cjk5f00oo4iewdi8v5juh5u7zw",
+                    "longDescription": "Automation generated long description grmojoyszp01cbz6jfq119r0897ah893whwdo1pifs87fq87mbuh3v6u5ss5lyimhofh09dx27oc0xeh1dwygmnbvq1h9i71b3eogz5xvpyc8s3eketbpu0wgbdvtov4ye5ybxaq2r5g6mxldd829rfjik8v2cgbumxyeustb75svt8aluhdtlkinkycse4vc6h04tjlu0f8evyx8e901rh41jkvuq4z2eleywbd3j6foml6ycz4k6xdu69rc0nq1jyyb13oiraikcu6r1bxffvhgl9hn8zmx8ytd6kf3lo4fqpzro9vls8wx2ddnlyreyj60tafu4uigcyrfxup6yfqf0wvnt53h45mlbltvki88mp99lhwgla0x4ma42cfgbatn80jr6cuf095igujk9v1ys82x5n0o6smfkcrc9ingaffvsufly3d4n4xrzp1y5qapndkjieo3vr42nnc4kisqa45pa3as95d4gzyg0z015g2cpsawq8mzw0zof13b5sq85u98fmcamojudasny8vli2ebynsgyf2joli9g58d4xu6zbnp7w43fsvnbdml72xijp3cm2vfp8n6wq6bs6fhr1ms923woqavwmiuy52jiw287bugu2mr32qhm3pvqtyi1oydncltzrja4izl9egxf9ge9sbokagikenzhdvn4bn20ccyiol35w8odttyfuisq91yxbxuxt0m24uuvuudbf57zpvomr9n39hk2rnhmhwt3q515113dwduglqo9s4o3ulrxbsabziqyjx0z08l2x1tai01t59rt4bphxxhfuijoqxzfyyfy57p293a1ztyzeuwq9a3ob9307xpkqnlhkfyc56luswwg9qu5lenk6",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": "",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "DB_TEST_SKU_5vvlvi",
+                    "s4HanaSku": "9bdzsk11bj",
+                    "basePrice": 1792.0,
+                    "sellingPrice": 21.0,
+                    "brand": "Obalica",
+                    "productStatus": "UNPUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": [
+                        {
+                            "id": 7,
+                            "planCode": "PLAN-MIX-MAX-105434",
+                            "name": "Mix Max - Unlimited Premium",
+                            "basePrice": null,
+                            "sellingPrice": null
+                        }
+                    ],
+                    "catalogCode": "DB_TEST_CAT_4lx6fh",
+                    "categories": [
+                        {
+                            "id": 229,
+                            "categoryCode": "DB_TEST_CATG_5zccmf",
+                            "categoryName": "Ppxi",
+                            "primary": false
+                        },
+                        {
+                            "id": 229,
+                            "categoryCode": "DB_TEST_CATG_5zccmf",
+                            "categoryName": "Ppxi",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        {
+                            "id": 6,
+                            "name": "GST 18%",
+                            "rate": 12.0,
+                            "type": null,
+                            "description": null
+                        },
+                        {
+                            "id": 5,
+                            "name": "Income",
+                            "rate": 12.0,
+                            "type": null,
+                            "description": null
+                        }
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 573,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T09:05:53.000+00:00",
+                    "updatedAt": "2026-01-14T09:05:53.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "EUMREPELLENDUSENI",
+                    "name": "Aurelia Wise",
+                    "description": "Incidunt possimus quo fuga Sit dolor maiores quia deserunt vero consequatur",
+                    "longDescription": "Omnis repellendus Dignissimos ipsum vitae duis voluptates ex consequat Eiusmod optio id velit velit pariatur",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": "Quo tempor voluptate",
+                    "multidimensional": false,
+                    "hasVariants": true,
+                    "variantCount": 0,
+                    "sku": "Etdignissimosquis",
+                    "s4HanaSku": "Sedquivitaeauten",
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Quae rerum ut commod",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        {
+                            "id": 246,
+                            "imageName": "Inorumasf-apple-iphone-16-plus-pink-512gb-back-view-1768389269849.jpg",
+                            "relativePath": "variants/Inorumasf/Inorumasf-apple-iphone-16-plus-pink-512gb-back-view-1768389269849.jpg",
+                            "domainUrl": "",
+                            "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/variants/Inorumasf/Inorumasf-apple-iphone-16-plus-pink-512gb-back-view-1768389269849.jpg",
+                            "s3Key": null,
+                            "contentType": "image/png",
+                            "altText": "apple-iphone-16-plus-pink-512gb-back-view",
+                            "displayOrder": 1,
+                            "isDefault": true,
+                            "status": "SUCCESS",
+                            "uploadVerified": true,
+                            "errorMessage": null
+                        }
+                    ],
+                    "specifications": {
+                        "ramafsd": "asfd"
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 55,
+                            "categoryCode": "budget-smartphones",
+                            "categoryName": "Budget-smartphones",
+                            "primary": true
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "id": 340,
+                            "variantCode": "Inorumasf",
+                            "variantName": "Nerea Mathews",
+                            "productId": 573,
+                            "productCode": "EUMREPELLENDUSENI",
+                            "productName": "Aurelia Wise",
+                            "sku": "Estllamxercitat",
+                            "s4HanaSku": "Voluptatesfuga",
+                            "description": "Non consectetur ex ",
+                            "basePrice": 622.0,
+                            "sellingPrice": 559.0,
+                            "stockQuantity": 0,
+                            "isDefault": false,
+                            "isActive": true,
+                            "isEnabled": false,
+                            "isDeleted": true,
+                            "productStatus": "ACTIVE",
+                            "tenantCode": "PA",
+                            "variantSpecifications": {
+                                
+                            },
+                            "inventory": {
+                                "journey": null,
+                                "plant": "Est ut officiis ali",
+                                "location": "Nam id ipsum minima ",
+                                "id": 487,
+                                "country_code": null,
+                                "created_at": "2026-01-14T09:38:15.000+00:00",
+                                "updated_at": "2026-01-14T09:39:14.000+00:00",
+                                "created_by": "admin@paytm.com",
+                                "updated_by": "admin@paytm.com",
+                                "s4_hana_sku": "Voluptatesfuga",
+                                "sku": "Estllamxercitat",
+                                "product_code": null,
+                                "name": null,
+                                "variant_code": "Inorumasf",
+                                "tenant_code": "PA",
+                                "mapping_type": "VARIANT",
+                                "stock_level_count": 3223,
+                                "stock_level_status": "IN_STOCK",
+                                "low_stock_threshold": 23,
+                                "reserved_quantity": 930,
+                                "back_order_enabled": false,
+                                "reason_of_update": null,
+                                "is_active": true
+                            },
+                            "plans": [
+                                {
+                                    "id": 9,
+                                    "planCode": "PLAN-MIX-MORE",
+                                    "name": "Mix Max - Unlimited Premium",
+                                    "basePrice": 85.0,
+                                    "sellingPrice": 85.0
+                                }
+                            ],
+                            "pricing": {
+                                "prices": [
+                                    {
+                                        "priceId": 410,
+                                        "productId": 573,
+                                        "variantId": 340,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "Inorumasf",
+                                        "currency": "USD",
+                                        "value": "120000",
+                                        "formatted": null,
+                                        "priceType": "ONE_TIME",
+                                        "regularPrice": null,
+                                        "comparePrice": null,
+                                        "savingsPercentage": null,
+                                        "priceLabel": "price 3",
+                                        "chargeType": null,
+                                        "billingEvent": null,
+                                        "billingFrequency": null,
+                                        "lines": null,
+                                        "duration": null,
+                                        "isActive": true,
+                                        "isDefault": false
+                                    },
+                                    {
+                                        "priceId": 412,
+                                        "productId": 573,
+                                        "variantId": 340,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "Inorumasf",
+                                        "currency": "USD",
+                                        "value": "12678",
+                                        "formatted": null,
+                                        "priceType": "ONE_TIME",
+                                        "regularPrice": null,
+                                        "comparePrice": null,
+                                        "savingsPercentage": null,
+                                        "priceLabel": "price 1",
+                                        "chargeType": null,
+                                        "billingEvent": null,
+                                        "billingFrequency": null,
+                                        "lines": null,
+                                        "duration": null,
+                                        "isActive": true,
+                                        "isDefault": false
+                                    },
+                                    {
+                                        "priceId": 413,
+                                        "productId": 573,
+                                        "variantId": 340,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "Inorumasf",
+                                        "currency": "USD",
+                                        "value": "1135456",
+                                        "formatted": null,
+                                        "priceType": "ONE_TIME",
+                                        "regularPrice": null,
+                                        "comparePrice": null,
+                                        "savingsPercentage": null,
+                                        "priceLabel": "price 2",
+                                        "chargeType": null,
+                                        "billingEvent": null,
+                                        "billingFrequency": null,
+                                        "lines": null,
+                                        "duration": null,
+                                        "isActive": true,
+                                        "isDefault": false
+                                    }
+                                ],
+                                "productOfferingPrice": [
+                                    
+                                ],
+                                "installments": [
+                                    
+                                ]
+                            },
+                            "images": [
+                                {
+                                    "id": 246,
+                                    "imageName": "Inorumasf-apple-iphone-16-plus-pink-512gb-back-view-1768389269849.jpg",
+                                    "relativePath": "variants/Inorumasf/Inorumasf-apple-iphone-16-plus-pink-512gb-back-view-1768389269849.jpg",
+                                    "domainUrl": "",
+                                    "absolutePath": "https://dev.static.commerce.lla.digital/PA/product-image/variants/Inorumasf/Inorumasf-apple-iphone-16-plus-pink-512gb-back-view-1768389269849.jpg",
+                                    "s3Key": null,
+                                    "contentType": "image/png",
+                                    "altText": "apple-iphone-16-plus-pink-512gb-back-view",
+                                    "displayOrder": 1,
+                                    "isDefault": true,
+                                    "status": "SUCCESS",
+                                    "uploadVerified": true,
+                                    "errorMessage": null
+                                }
+                            ],
+                            "journey": {
+                                "journeyCode": "JOURNEY-2026-PROD-EB26E308-003",
+                                "journeyStatus": "COMPLETED",
+                                "currentStep": "IMAGES",
+                                "completedSteps": [
+                                    "BASIC_INFO",
+                                    "VARIANTS",
+                                    "PRICING",
+                                    "INVENTORY",
+                                    "SPECIFICATIONS",
+                                    "TAX_CONFIGURATION",
+                                    "PLAN_MAPPING"
+                                ],
+                                "productCode": "EUMREPELLENDUSENI",
+                                "entityType": "PRODUCT"
+                            },
+                            "createdAt": "2026-01-14T09:07:58.000+00:00",
+                            "updatedAt": "2026-01-14T09:38:15.000+00:00",
+                            "createdBy": null,
+                            "updatedBy": null,
+                            "countryCode": null
+                        },
+                        {
+                            "id": 343,
+                            "variantCode": "fasdfasdf",
+                            "variantName": "Jonah Cox",
+                            "productId": 573,
+                            "productCode": "EUMREPELLENDUSENI",
+                            "productName": "Aurelia Wise",
+                            "sku": "Magniafas",
+                            "s4HanaSku": "Reruafsd",
+                            "description": "Voluptate aliqua An",
+                            "basePrice": 637.0,
+                            "sellingPrice": 287.0,
+                            "stockQuantity": 0,
+                            "isDefault": false,
+                            "isActive": true,
+                            "isEnabled": true,
+                            "isDeleted": false,
+                            "productStatus": "ACTIVE",
+                            "tenantCode": "PA",
+                            "variantSpecifications": {
+                                
+                            },
+                            "inventory": {
+                                "journey": null,
+                                "plant": "Nihil dolore esse t",
+                                "location": "Et quis expedita sed",
+                                "id": 486,
+                                "country_code": null,
+                                "created_at": "2026-01-14T09:28:33.000+00:00",
+                                "updated_at": "2026-01-14T09:29:16.000+00:00",
+                                "created_by": "admin@paytm.com",
+                                "updated_by": "admin@paytm.com",
+                                "s4_hana_sku": "Reruafsd",
+                                "sku": "Magniafas",
+                                "product_code": null,
+                                "name": null,
+                                "variant_code": "fasdfasdf",
+                                "tenant_code": "PA",
+                                "mapping_type": "VARIANT",
+                                "stock_level_count": 2323,
+                                "stock_level_status": "IN_STOCK",
+                                "low_stock_threshold": 23,
+                                "reserved_quantity": 277,
+                                "back_order_enabled": false,
+                                "reason_of_update": null,
+                                "is_active": true
+                            },
+                            "plans": [
+                                
+                            ],
+                            "pricing": {
+                                "prices": [
+                                    {
+                                        "priceId": 409,
+                                        "productId": 573,
+                                        "variantId": 343,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "fasdfasdf",
+                                        "currency": "USD",
+                                        "value": "23",
+                                        "formatted": null,
+                                        "priceType": "ONE_TIME",
+                                        "regularPrice": null,
+                                        "comparePrice": null,
+                                        "savingsPercentage": null,
+                                        "priceLabel": "label 5",
+                                        "chargeType": null,
+                                        "billingEvent": null,
+                                        "billingFrequency": null,
+                                        "lines": -16,
+                                        "duration": null,
+                                        "isActive": true,
+                                        "isDefault": false
+                                    }
+                                ],
+                                "productOfferingPrice": [
+                                    
+                                ],
+                                "installments": [
+                                    {
+                                        "id": 580,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "fasdfasdf",
+                                        "months": 233,
+                                        "monthlyAmount": 23.0,
+                                        "totalAmount": null,
+                                        "formatted": null,
+                                        "interestRate": 23.0,
+                                        "isDefault": false,
+                                        "upFrontPayment": 2323.0
+                                    }
+                                ]
+                            },
+                            "images": [
+                                
+                            ],
+                            "journey": {
+                                "journeyCode": "JOURNEY-2026-PROD-EB26E308-003",
+                                "journeyStatus": "COMPLETED",
+                                "currentStep": "IMAGES",
+                                "completedSteps": [
+                                    "BASIC_INFO",
+                                    "VARIANTS",
+                                    "PRICING",
+                                    "INVENTORY",
+                                    "SPECIFICATIONS",
+                                    "TAX_CONFIGURATION",
+                                    "PLAN_MAPPING"
+                                ],
+                                "productCode": "EUMREPELLENDUSENI",
+                                "entityType": "PRODUCT"
+                            },
+                            "createdAt": "2026-01-14T09:28:33.000+00:00",
+                            "updatedAt": "2026-01-14T09:28:33.000+00:00",
+                            "createdBy": null,
+                            "updatedBy": null,
+                            "countryCode": null
+                        },
+                        {
+                            "id": 344,
+                            "variantCode": "tushar",
+                            "variantName": "Fitzgerald Hull",
+                            "productId": 573,
+                            "productCode": "EUMREPELLENDUSENI",
+                            "productName": "Aurelia Wise",
+                            "sku": "Quioremafserat ",
+                            "s4HanaSku": "Exercitationemfasd",
+                            "description": "Sed sunt omnis non q",
+                            "basePrice": 737.0,
+                            "sellingPrice": 61.0,
+                            "stockQuantity": 0,
+                            "isDefault": false,
+                            "isActive": true,
+                            "isEnabled": true,
+                            "isDeleted": false,
+                            "productStatus": "ACTIVE",
+                            "tenantCode": "PA",
+                            "variantSpecifications": {
+                                
+                            },
+                            "inventory": {
+                                "journey": null,
+                                "plant": "Mollitia nihil in eu",
+                                "location": "Quo quia ex pariatur",
+                                "id": 488,
+                                "country_code": null,
+                                "created_at": "2026-01-14T09:56:48.000+00:00",
+                                "updated_at": "2026-01-14T09:57:10.000+00:00",
+                                "created_by": "admin@paytm.com",
+                                "updated_by": "admin@paytm.com",
+                                "s4_hana_sku": "Exercitationemfasd",
+                                "sku": "Quioremafserat ",
+                                "product_code": null,
+                                "name": null,
+                                "variant_code": "tushar",
+                                "tenant_code": "PA",
+                                "mapping_type": "VARIANT",
+                                "stock_level_count": 233,
+                                "stock_level_status": "IN_STOCK",
+                                "low_stock_threshold": 3,
+                                "reserved_quantity": 320,
+                                "back_order_enabled": false,
+                                "reason_of_update": null,
+                                "is_active": true
+                            },
+                            "plans": [
+                                
+                            ],
+                            "pricing": {
+                                "prices": [
+                                    
+                                ],
+                                "productOfferingPrice": [
+                                    
+                                ],
+                                "installments": [
+                                    {
+                                        "id": 581,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "tushar",
+                                        "months": 34,
+                                        "monthlyAmount": 34.0,
+                                        "totalAmount": null,
+                                        "formatted": null,
+                                        "interestRate": 34.0,
+                                        "isDefault": false,
+                                        "upFrontPayment": 34.0
+                                    },
+                                    {
+                                        "id": 582,
+                                        "productCode": "EUMREPELLENDUSENI",
+                                        "variantCode": "tushar",
+                                        "months": 233,
+                                        "monthlyAmount": 2332.0,
+                                        "totalAmount": null,
+                                        "formatted": null,
+                                        "interestRate": 233.0,
+                                        "isDefault": false,
+                                        "upFrontPayment": 23.0
+                                    }
+                                ]
+                            },
+                            "images": [
+                                
+                            ],
+                            "journey": {
+                                "journeyCode": "JOURNEY-2026-PROD-EB26E308-003",
+                                "journeyStatus": "COMPLETED",
+                                "currentStep": "IMAGES",
+                                "completedSteps": [
+                                    "BASIC_INFO",
+                                    "VARIANTS",
+                                    "PRICING",
+                                    "INVENTORY",
+                                    "SPECIFICATIONS",
+                                    "TAX_CONFIGURATION",
+                                    "PLAN_MAPPING"
+                                ],
+                                "productCode": "EUMREPELLENDUSENI",
+                                "entityType": "PRODUCT"
+                            },
+                            "createdAt": "2026-01-14T09:56:48.000+00:00",
+                            "updatedAt": "2026-01-14T09:56:48.000+00:00",
+                            "createdBy": null,
+                            "updatedBy": null,
+                            "countryCode": null
+                        }
+                    ],
+                    "taxes": [
+                        {
+                            "id": 64,
+                            "name": "tusharb",
+                            "rate": 12.0,
+                            "type": null,
+                            "description": null
+                        }
+                    ],
+                    "pricing": null,
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 572,
+                    "countryCode": null,
+                    "createdAt": "2026-01-14T09:04:27.000+00:00",
+                    "updatedAt": "2026-01-14T09:04:39.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "DOLOREELITDICTAA",
+                    "name": "Victor Mckinney",
+                    "description": "Rerum eum nemo in odio est quia lorem dolores magni atque optio",
+                    "longDescription": "Repellendus Voluptatem optio non deleniti dolorem labore officia est nemo",
+                    "productType": "MOBILE",
+                    "productSubtype": null,
+                    "url": "Et quia aut accusant",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Commodoanimimoles",
+                    "s4HanaSku": "Estvoluptatemexce",
+                    "basePrice": 34.0,
+                    "sellingPrice": 34.0,
+                    "brand": "Error eligendi dolor",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 79,
+                            "categoryCode": "5g Plans",
+                            "categoryName": "chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                }
+            ],
+            "currentPage": 0,
+            "pageSize": 10,
+            "totalElements": 418,
+            "totalPages": 42,
+            "hasNext": true,
+            "hasPrevious": false,
+            "isFirst": true,
+            "isLast": false
+        }
+    }
+}

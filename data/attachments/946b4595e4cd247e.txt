@@ -1,0 +1,6 @@
+{
+    "status": "Failure",
+    "message": "At least one parameter (productCode or variantCode) must be provided",
+    "responseCode": 4001,
+    "data": null
+}
