@@ -1,0 +1,21 @@
+Date=Fri, 30 Jan 2026 10:42:58 GMT
+Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Content-Encoding=gzip
+x-amzn-requestid=db23e174-287b-471d-80fa-6bf6c0e01300
+x-xss-protection=0
+x-frame-options=DENY
+x-amzn-remapped-connection=keep-alive
+x-amz-apigw-id=X_qv_EXOoAMEvhw=
+vary=Origin
+vary=Access-Control-Request-Method
+vary=Access-Control-Request-Headers
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+expires=0
+x-content-type-options=nosniff
+pragma=no-cache
+x-amzn-remapped-date=Fri, 30 Jan 2026 10:42:58 GMT
+cf-cache-status=DYNAMIC
+Server=cloudflare
+CF-RAY=9c605d99a90d97f7-DEL

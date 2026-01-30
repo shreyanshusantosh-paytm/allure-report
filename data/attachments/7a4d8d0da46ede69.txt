@@ -1,0 +1,567 @@
+{
+    "status": "SUCCESS",
+    "message": "SUCCESS",
+    "responseCode": 20000,
+    "data": [
+        {
+            "id": 200,
+            "planCode": "123SKU",
+            "name": "tush123",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 537,
+            "planCode": "2324",
+            "name": "arabb",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 455,
+            "planCode": "300",
+            "name": "3412",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 598,
+            "planCode": "32424234",
+            "name": "fsfsdfsfd",
+            "basePrice": 133.0,
+            "sellingPrice": 12.0
+        },
+        {
+            "id": 451,
+            "planCode": "32NJW",
+            "name": "r3fE",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 547,
+            "planCode": "3R32F23F3F",
+            "name": "varientUpdated_1",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 25,
+            "planCode": "5",
+            "name": "Mix Max - Unlimited Premium UPDATED",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 500,
+            "planCode": "54545",
+            "name": "Aiko Carr",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 617,
+            "planCode": "Accusamusexcepteur",
+            "name": "Ross Sims",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 531,
+            "planCode": "ACCUSAMUSSOLUTAINC",
+            "name": "Carly Montoya",
+            "basePrice": 34.0,
+            "sellingPrice": 32.0
+        },
+        {
+            "id": 670,
+            "planCode": "Aliasvitaeillume",
+            "name": "Xena Sutton",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 279,
+            "planCode": "ALIQUIPREPELLENDUS",
+            "name": "Nomlanga Benson",
+            "basePrice": 1000.0,
+            "sellingPrice": 1000.0
+        },
+        {
+            "id": 173,
+            "planCode": "Architecto asperiore",
+            "name": "Jaime Holman",
+            "basePrice": 1233.0,
+            "sellingPrice": 32323.0
+        },
+        {
+            "id": 631,
+            "planCode": "BHKASBKFS",
+            "name": "ASBFDJKASBA",
+            "basePrice": 231421.0,
+            "sellingPrice": 12331.0
+        },
+        {
+            "id": 149,
+            "planCode": "Consequat Lorem dol",
+            "name": "Kamal Estrada",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 484,
+            "planCode": "CONSEQUATQUINESCI",
+            "name": "kavin",
+            "basePrice": 343435.0,
+            "sellingPrice": 242.0
+        },
+        {
+            "id": 532,
+            "planCode": "CONSEQUATURUTIPSA",
+            "name": "rabhsa",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 646,
+            "planCode": "dasfs",
+            "name": "few",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 533,
+            "planCode": "DELENITIMAXIMEREPU",
+            "name": "Brandon Lang",
+            "basePrice": 135.0,
+            "sellingPrice": 76.0
+        },
+        {
+            "id": 548,
+            "planCode": "DELENITISAEPEALIAS",
+            "name": "Ethan Summers",
+            "basePrice": 481.0,
+            "sellingPrice": 365.0
+        },
+        {
+            "id": 643,
+            "planCode": "dev-plan-test",
+            "name": "DEV PLAN TEST",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 479,
+            "planCode": "DOLORALIQUIDDOLORE",
+            "name": "Ora Peters",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 483,
+            "planCode": "DOLOREMQUEVOLUPTATE",
+            "name": "hellooo",
+            "basePrice": 34353.0,
+            "sellingPrice": 243.0
+        },
+        {
+            "id": 498,
+            "planCode": "DOLORINAPERIAMIN",
+            "name": "Cathleen Peterson",
+            "basePrice": 34353.0,
+            "sellingPrice": 23.0
+        },
+        {
+            "id": 610,
+            "planCode": "DononconsequatEs",
+            "name": "Alexandra Frost",
+            "basePrice": 44.0,
+            "sellingPrice": 4.0
+        },
+        {
+            "id": 153,
+            "planCode": "dsaeedcvsaww32q314c",
+            "name": "cdsa",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 151,
+            "planCode": "Ea nostrum ea unde n",
+            "name": "Dale Watson",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 480,
+            "planCode": "EAEAENIMCUMOBCAE",
+            "name": "Iona Lawson",
+            "basePrice": 101.0,
+            "sellingPrice": 100.0
+        },
+        {
+            "id": 508,
+            "planCode": "EARECUSANDAEMOLES",
+            "name": "Lane Wiley",
+            "basePrice": 87.0,
+            "sellingPrice": 80.0
+        },
+        {
+            "id": 509,
+            "planCode": "ELITUTETNISIEXP",
+            "name": "Phyllis Serrano",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 226,
+            "planCode": "ENIMEST",
+            "name": "Zena Steele",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 682,
+            "planCode": "Erroriddoloremcom",
+            "name": "Slade Barton",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 488,
+            "planCode": "ETOMNISLABORUMIN",
+            "name": "654321",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 543,
+            "planCode": "EUMNESCIUNTPOSSIM",
+            "name": "Peter Alston",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 171,
+            "planCode": "FHGFCHG",
+            "name": "GCFHGVC",
+            "basePrice": 4545.0,
+            "sellingPrice": 44.0
+        },
+        {
+            "id": 312,
+            "planCode": "FSFS",
+            "name": "Scarlett Bean",
+            "basePrice": 34353.0,
+            "sellingPrice": 23.0
+        },
+        {
+            "id": 433,
+            "planCode": "FUGAASSUMENDANESC",
+            "name": "Jane Vaughn",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 640,
+            "planCode": "hjbvh",
+            "name": "j jh ",
+            "basePrice": 76.0,
+            "sellingPrice": 4.0
+        },
+        {
+            "id": 684,
+            "planCode": "internet_MEGA_1000",
+            "name": "internet_MEGA_1000",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 503,
+            "planCode": "KFMGSDKLMFS",
+            "name": "Mix max",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 269,
+            "planCode": "LABORUM243",
+            "name": "Brent Mack",
+            "basePrice": 45.0,
+            "sellingPrice": 4.0
+        },
+        {
+            "id": 467,
+            "planCode": "LHGFDHJGHGYGHGH",
+            "name": "khjhkj",
+            "basePrice": 9.0,
+            "sellingPrice": 6.0
+        },
+        {
+            "id": 563,
+            "planCode": "LIBERTY_MIX_ONE",
+            "name": "LIBERTY MIX ",
+            "basePrice": 100.0,
+            "sellingPrice": 80.0
+        },
+        {
+            "id": 207,
+            "planCode": "LIBERTYMIX30",
+            "name": "Liberty Mix 30",
+            "basePrice": 60.0,
+            "sellingPrice": 60.0
+        },
+        {
+            "id": 208,
+            "planCode": "LIBERTYMIX40",
+            "name": "Liberty Mix 40",
+            "basePrice": 60.0,
+            "sellingPrice": 60.0
+        },
+        {
+            "id": 549,
+            "planCode": "MAXIMEMAGNAMRATION",
+            "name": "Calista Benton",
+            "basePrice": 72.0,
+            "sellingPrice": 9.0
+        },
+        {
+            "id": 372,
+            "planCode": "MAXIMEQUISQUAMMAXI",
+            "name": "Olivia Matthews",
+            "basePrice": 741.0,
+            "sellingPrice": 645.96
+        },
+        {
+            "id": 641,
+            "planCode": "Mobile_27",
+            "name": "Plan Conectado Sin Límites",
+            "basePrice": 27.0,
+            "sellingPrice": 27.0
+        },
+        {
+            "id": 644,
+            "planCode": "Mobile_37",
+            "name": "Plan Data ¡Sin Límites!",
+            "basePrice": 37.0,
+            "sellingPrice": 37.0
+        },
+        {
+            "id": 551,
+            "planCode": "NATUSVEROTEMPORIN",
+            "name": "Quentin Hanson",
+            "basePrice": 515.0,
+            "sellingPrice": 356.0
+        },
+        {
+            "id": 373,
+            "planCode": "NONVELCONSECTETUR",
+            "name": "Patricia Rivers",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 482,
+            "planCode": "NOSTRUMLIBERONISI",
+            "name": "kall",
+            "basePrice": 4243.0,
+            "sellingPrice": 112.0
+        },
+        {
+            "id": 656,
+            "planCode": "Omnissedisteobcae",
+            "name": "Barrett Garza",
+            "basePrice": 234.0,
+            "sellingPrice": 234.0
+        },
+        {
+            "id": 95,
+            "planCode": "PLAN-MIX-6UBC",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 33,
+            "planCode": "PLAN-MIX-CORE",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 374,
+            "planCode": "PLAN-MIX-CORE-NEW",
+            "name": "IPHONE_256_NEW",
+            "basePrice": 75.0,
+            "sellingPrice": 65.0
+        },
+        {
+            "id": 39,
+            "planCode": "PLAN-MIX-CORE1",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 37,
+            "planCode": "PLAN-MIX-COREE",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 7,
+            "planCode": "PLAN-MIX-MAX-105434",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 9,
+            "planCode": "PLAN-MIX-MORE",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 101,
+            "planCode": "PLAN-MIX-XTSB",
+            "name": "Mix Max - Unlimited Premium",
+            "basePrice": 85.0,
+            "sellingPrice": 85.0
+        },
+        {
+            "id": 595,
+            "planCode": "PLAN-UNLIMITED",
+            "name": "Unlimited 5G Plan",
+            "basePrice": 110.0,
+            "sellingPrice": 100.0
+        },
+        {
+            "id": 224,
+            "planCode": "PLAN1",
+            "name": "PLAN 1",
+            "basePrice": 60.0,
+            "sellingPrice": 50.0
+        },
+        {
+            "id": 510,
+            "planCode": "PLANTEST",
+            "name": "Lara Mccall",
+            "basePrice": 899900.0,
+            "sellingPrice": 9976.0
+        },
+        {
+            "id": 458,
+            "planCode": "PROD1",
+            "name": "MIX PLAN TEST",
+            "basePrice": 1100.0,
+            "sellingPrice": 1000.0
+        },
+        {
+            "id": 260,
+            "planCode": "Q21",
+            "name": "2323",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 886,
+            "planCode": "Quoundenullaculpa",
+            "name": "Danielle Myers",
+            "basePrice": 2323.0,
+            "sellingPrice": 22.0
+        },
+        {
+            "id": 192,
+            "planCode": "REPELLENDU",
+            "name": "Althea Stuart",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 283,
+            "planCode": "RERE",
+            "name": "updatedCode",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 553,
+            "planCode": "RERUMIPSUMSIMILIQU",
+            "name": "Cole Copeland",
+            "basePrice": 701.0,
+            "sellingPrice": 376.0
+        },
+        {
+            "id": 577,
+            "planCode": "RFEF",
+            "name": "ferfe",
+            "basePrice": 434.0,
+            "sellingPrice": 3.0
+        },
+        {
+            "id": 258,
+            "planCode": "RTR",
+            "name": "rtr",
+            "basePrice": 12.0,
+            "sellingPrice": 12.0
+        },
+        {
+            "id": 266,
+            "planCode": "SUNTOPTIOOLORIBU",
+            "name": "Lyle Reyes",
+            "basePrice": 56.0,
+            "sellingPrice": 7.0
+        },
+        {
+            "id": 430,
+            "planCode": "ULTRAMIXPLA34N32SD43F4323",
+            "name": "Ultra mix plan",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 278,
+            "planCode": "ULTRAMIXPLAN",
+            "name": "Ultra mix plan",
+            "basePrice": 80.0,
+            "sellingPrice": 60.0
+        },
+        {
+            "id": 429,
+            "planCode": "ULTRAMIXPLANSDF43",
+            "name": "Ultra mix plan",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 431,
+            "planCode": "UTDOLORESSEDINQU",
+            "name": "Dale Conrad",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 540,
+            "planCode": "UTIMPEDITCONSECTE",
+            "name": "Chloe Bradshaw",
+            "basePrice": 34.0,
+            "sellingPrice": 32.0
+        },
+        {
+            "id": 550,
+            "planCode": "VOLUPTATEALIQUIDEX",
+            "name": "Raven Sandoval",
+            "basePrice": null,
+            "sellingPrice": null
+        },
+        {
+            "id": 597,
+            "planCode": "WE4F4",
+            "name": "dwfew",
+            "basePrice": 34.0,
+            "sellingPrice": 34.0
+        }
+    ]
+}

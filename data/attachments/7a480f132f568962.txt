@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "message": "SUCCESS",
+    "responseCode": 20000,
+    "data": {
+        "content": [
+            
+        ],
+        "currentPage": 0,
+        "pageSize": 10,
+        "totalElements": 0,
+        "totalPages": 0,
+        "hasNext": false,
+        "hasPrevious": false,
+        "isFirst": true,
+        "isLast": true
+    }
+}

@@ -1,4 +1,4 @@
 "BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"0","","0","API Health Check - POST Read APIs","3","0","Verify abandoned cart search health","0"
-"0","","0","API Health Check - GET APIs with Params","7","0","Verify GET API health with params","0"
+"0","","0","API Health Check - POST Read APIs","2","0","Verify abandoned cart search health","0"
 "0","","0","API Health Check - Simple GET APIs","8","0","Verify GET API health","0"
+"0","","0","API Health Check - GET APIs with Params","7","0","Verify GET API health with params","0"

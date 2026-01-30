@@ -1,0 +1,1342 @@
+{
+    "status": "SUCCESS",
+    "message": "SUCCESS",
+    "responseCode": 20000,
+    "data": {
+        "status": "SUCCESS",
+        "message": "Products retrieved successfully",
+        "responseCode": 20000,
+        "data": {
+            "content": [
+                {
+                    "id": 891,
+                    "countryCode": null,
+                    "createdAt": "2026-01-30T09:33:11.000+00:00",
+                    "updatedAt": "2026-01-30T09:33:11.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "nnnn",
+                    "name": "hbhh",
+                    "description": "hhhhhh",
+                    "longDescription": "n jnjnjnj",
+                    "productType": "DEVICE",
+                    "productSubType": "MOBILE",
+                    "url": null,
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "90",
+                    "s4HanaSku": "890980",
+                    "externalIdentifier": null,
+                    "externalTaxId": null,
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Samsung",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 79,
+                            "categoryCode": "5g Plans",
+                            "categoryName": "chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 888,
+                    "countryCode": null,
+                    "createdAt": "2026-01-30T08:05:27.000+00:00",
+                    "updatedAt": "2026-01-30T08:05:27.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "SAM-UNLIMITE602",
+                    "name": "SAMUNG-8092",
+                    "description": "Unlimited data",
+                    "longDescription": "Unlimited calls and data plan",
+                    "productType": "DEVICE",
+                    "productSubType": "MOBILE",
+                    "url": "http://unlimited-plan.com",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "PLAN-UNLIMITE09091",
+                    "s4HanaSku": "PLAN-UNLIMITED-SAP-9892",
+                    "externalIdentifier": null,
+                    "externalTaxId": null,
+                    "basePrice": 110.0,
+                    "sellingPrice": 100.0,
+                    "brand": "Telco",
+                    "productStatus": "PUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        "PLAN-5G-MAX",
+                        "PLAN-5G-BASIC"
+                    ],
+                    "productsBroughtTogether": [
+                        "ADDON-HOTSPOT",
+                        "ADDON-INTERNATIONAL"
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        "DATA": "Unlimited",
+                        "SMS": "Unlimited",
+                        "CALLS": "Unlimited"
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 249,
+                            "categoryCode": "chatbot",
+                            "categoryName": "Chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": [
+                            {
+                                "priceId": 1856,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "78",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "1 Line",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            },
+                            {
+                                "priceId": 1857,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "70",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "2 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1858,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "65",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "3 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1859,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "60",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "4 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1860,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "55",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "5 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1876,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "78",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "1 Line",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            },
+                            {
+                                "priceId": 1877,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "70",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "2 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1878,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "65",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "3 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1879,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "60",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "4 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1880,
+                                "productId": 888,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE602",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "55",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "5 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            }
+                        ],
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": {
+                        "journey": null,
+                        "plant": null,
+                        "location": null,
+                        "id": 803,
+                        "country_code": "US",
+                        "created_at": "2026-01-30T08:05:27.000+00:00",
+                        "updated_at": "2026-01-30T08:05:27.000+00:00",
+                        "created_by": "admin@company.com",
+                        "updated_by": null,
+                        "s4_hana_sku": "PLAN-UNLIMITED-SAP-9892",
+                        "sku": "PLAN-UNLIMITE09091",
+                        "product_code": "SAM-UNLIMITE602",
+                        "name": null,
+                        "variant_code": null,
+                        "tenant_code": "PA",
+                        "mapping_type": "PRODUCT",
+                        "stock_level_count": 50,
+                        "stock_level_status": "PENDING",
+                        "low_stock_threshold": 5,
+                        "reserved_quantity": 0,
+                        "back_order_enabled": false,
+                        "reason_of_update": null,
+                        "is_active": true
+                    },
+                    "journey": null
+                },
+                {
+                    "id": 887,
+                    "countryCode": null,
+                    "createdAt": "2026-01-30T08:05:27.000+00:00",
+                    "updatedAt": "2026-01-30T08:05:27.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "SAM-UNLIMITE601",
+                    "name": "SAMUNG-8091",
+                    "description": "Unlimited data",
+                    "longDescription": "Unlimited calls and data plan",
+                    "productType": "DEVICE",
+                    "productSubType": "MOBILE",
+                    "url": "http://unlimited-plan.com",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "PLAN-UNLIMITE09090",
+                    "s4HanaSku": "PLAN-UNLIMITED-SAP-9891",
+                    "externalIdentifier": null,
+                    "externalTaxId": null,
+                    "basePrice": 110.0,
+                    "sellingPrice": 100.0,
+                    "brand": "Telco",
+                    "productStatus": "PUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        "PLAN-5G-MAX",
+                        "PLAN-5G-BASIC"
+                    ],
+                    "productsBroughtTogether": [
+                        "ADDON-HOTSPOT",
+                        "ADDON-INTERNATIONAL"
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        "DATA": "Unlimited",
+                        "SMS": "Unlimited",
+                        "CALLS": "Unlimited"
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 249,
+                            "categoryCode": "chatbot",
+                            "categoryName": "Chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": [
+                            {
+                                "priceId": 1851,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "78",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "1 Line",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            },
+                            {
+                                "priceId": 1852,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "70",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "2 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1853,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "65",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "3 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1854,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "60",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "4 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1855,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "55",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "5 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1871,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "78",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "1 Line",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            },
+                            {
+                                "priceId": 1872,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "70",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "2 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1873,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "65",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "3 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1874,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "60",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "4 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            },
+                            {
+                                "priceId": 1875,
+                                "productId": 887,
+                                "variantId": null,
+                                "productCode": "SAM-UNLIMITE601",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "USD",
+                                "value": "55",
+                                "formatted": null,
+                                "priceType": "RECURRING",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "5 Lines",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": "MONTHLY",
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": false
+                            }
+                        ],
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": {
+                        "journey": null,
+                        "plant": null,
+                        "location": null,
+                        "id": 802,
+                        "country_code": "US",
+                        "created_at": "2026-01-30T08:05:27.000+00:00",
+                        "updated_at": "2026-01-30T08:05:27.000+00:00",
+                        "created_by": "admin@company.com",
+                        "updated_by": null,
+                        "s4_hana_sku": "PLAN-UNLIMITED-SAP-9891",
+                        "sku": "PLAN-UNLIMITE09090",
+                        "product_code": "SAM-UNLIMITE601",
+                        "name": null,
+                        "variant_code": null,
+                        "tenant_code": "PA",
+                        "mapping_type": "PRODUCT",
+                        "stock_level_count": 50,
+                        "stock_level_status": "PENDING",
+                        "low_stock_threshold": 5,
+                        "reserved_quantity": 0,
+                        "back_order_enabled": false,
+                        "reason_of_update": null,
+                        "is_active": true
+                    },
+                    "journey": null
+                },
+                {
+                    "id": 886,
+                    "countryCode": null,
+                    "createdAt": "2026-01-30T07:00:50.000+00:00",
+                    "updatedAt": "2026-01-30T07:00:58.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Quoundenullaculpa",
+                    "name": "Danielle Myers",
+                    "description": "Sit reprehenderit dolore saepe quia nostrum mollitia",
+                    "longDescription": "Error repudiandae nihil veritatis voluptatem quasi dolore consequuntur delectus ad lorem elit veniam nisi eaque velit eligendi quae omnis sit",
+                    "productType": "PLAN",
+                    "productSubType": "POSTPAID",
+                    "url": "Fuga Iste voluptate",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Mollitautemvolupta",
+                    "s4HanaSku": null,
+                    "externalIdentifier": "Ipsam autem veritati",
+                    "externalTaxId": "Rerum vel dolore ven",
+                    "basePrice": 2323.0,
+                    "sellingPrice": 22.0,
+                    "brand": "Eaque sint qui quos ",
+                    "productStatus": "PUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "SMARTPHONES",
+                    "categories": [
+                        {
+                            "id": 203,
+                            "categoryCode": "PREMIUM_SMARTPHONES",
+                            "categoryName": "Premium Smartphones",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": {
+                        "journey": null,
+                        "plant": null,
+                        "location": null,
+                        "id": 801,
+                        "country_code": "US",
+                        "created_at": "2026-01-30T07:01:34.000+00:00",
+                        "updated_at": "2026-01-30T07:01:34.000+00:00",
+                        "created_by": "admin@paytm.com",
+                        "updated_by": null,
+                        "s4_hana_sku": "",
+                        "sku": "Mollitautemvolupta",
+                        "product_code": "Quoundenullaculpa",
+                        "name": null,
+                        "variant_code": null,
+                        "tenant_code": "PA",
+                        "mapping_type": "PRODUCT",
+                        "stock_level_count": 224,
+                        "stock_level_status": "PENDING",
+                        "low_stock_threshold": 10,
+                        "reserved_quantity": 0,
+                        "back_order_enabled": false,
+                        "reason_of_update": null,
+                        "is_active": true
+                    },
+                    "journey": null
+                },
+                {
+                    "id": 684,
+                    "countryCode": null,
+                    "createdAt": "2026-01-29T11:22:49.000+00:00",
+                    "updatedAt": "2026-01-29T11:22:49.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "internet_MEGA_1000",
+                    "name": "internet_MEGA_1000",
+                    "description": null,
+                    "longDescription": null,
+                    "productType": "PLAN",
+                    "productSubType": "POSTPAID",
+                    "url": null,
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "asdasda",
+                    "s4HanaSku": null,
+                    "externalIdentifier": null,
+                    "externalTaxId": null,
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "costa rica",
+                    "productStatus": "PUBLISHED",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "CostaRicaProductCatalog",
+                    "categories": [
+                        {
+                            "id": 248,
+                            "categoryCode": "Residential",
+                            "categoryName": "Residential",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 682,
+                    "countryCode": null,
+                    "createdAt": "2026-01-29T11:16:21.000+00:00",
+                    "updatedAt": "2026-01-29T11:16:21.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Erroriddoloremcom",
+                    "name": "Slade Barton",
+                    "description": "Rerum deleniti consequatur elit sed enim non vel nulla aperiam enim aut rerum tenetur",
+                    "longDescription": "Amet eu voluptatem maiores lorem explicabo Quae quia ullam possimus molestias dolore exercitationem facilis",
+                    "productType": "PLAN",
+                    "productSubType": "PREPAID",
+                    "url": "Dicta possimus omni",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Etharumcumquealiq",
+                    "s4HanaSku": null,
+                    "externalIdentifier": "Ducimus sint esse q",
+                    "externalTaxId": "Et sit id labore ve",
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Et dolor ullam in qu",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 79,
+                            "categoryCode": "5g Plans",
+                            "categoryName": "chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 679,
+                    "countryCode": null,
+                    "createdAt": "2026-01-29T10:45:33.000+00:00",
+                    "updatedAt": "2026-01-29T11:25:36.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Inciduntdoloreet",
+                    "name": "Alden Higgins",
+                    "description": "Eum ullam eum dolore aliqua Molestiae rerum eiusmod omnis dolorem minus labore quis vero voluptatem Dolorem numquam",
+                    "longDescription": "Quod voluptatem Ad est reprehenderit maxime",
+                    "productType": "DEVICE",
+                    "productSubType": "MOBILE",
+                    "url": "Iusto fugiat consequ",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Ducimusinessecon",
+                    "s4HanaSku": "Voluptasreprehender",
+                    "externalIdentifier": "Dolor consectetur re",
+                    "externalTaxId": "Ut eveniet dolorum ",
+                    "basePrice": 451.0,
+                    "sellingPrice": null,
+                    "brand": "Rem libero necessita",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 80,
+                            "categoryCode": "5g Plans 200mbps",
+                            "categoryName": "chatbot plans",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": [
+                            {
+                                "priceId": 850,
+                                "productId": 679,
+                                "variantId": null,
+                                "productCode": "Inciduntdoloreet",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "392",
+                                "value": "704",
+                                "formatted": null,
+                                "priceType": "ONE_TIME",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "855",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": null,
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            }
+                        ],
+                        "productOfferingPrice": null,
+                        "installments": [
+                            {
+                                "id": 730,
+                                "productCode": "Inciduntdoloreet",
+                                "variantCode": null,
+                                "planCode": "PLAN-MIX-MORE",
+                                "installmentLabel": "shit 1",
+                                "description": "shit description",
+                                "months": 1,
+                                "monthlyAmount": 3.0,
+                                "totalAmount": null,
+                                "formatted": null,
+                                "interestRate": 23.0,
+                                "priceType": "RECURRING",
+                                "isDefault": true,
+                                "upFrontPayment": 344.0,
+                                "campaignType": "BASIC"
+                            }
+                        ]
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 677,
+                    "countryCode": null,
+                    "createdAt": "2026-01-29T10:33:08.000+00:00",
+                    "updatedAt": "2026-01-29T10:59:25.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Quaeidexcepturipo",
+                    "name": "Bruno Douglas",
+                    "description": "Optio placeat nemo illo esse non reprehenderit in ex aute illo dolorem dolore dolorem at",
+                    "longDescription": "Cupiditate porro nostrum aliquip neque id vel accusamus aliquam molestiae qui facere officia ipsa dignissimos accusantium et",
+                    "productType": "DEVICE",
+                    "productSubType": "MOBILE",
+                    "url": "Ullamco consequuntur",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Molestiasquisvitae",
+                    "s4HanaSku": "Autundesintvolupt",
+                    "externalIdentifier": "Aute elit ut duis n",
+                    "externalTaxId": "At voluptate minus r",
+                    "basePrice": 218.0,
+                    "sellingPrice": null,
+                    "brand": "Quasi sed id sed en",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        "Dolorem dolor sunt"
+                    ],
+                    "productsBroughtTogether": [
+                        "Enim officia laborum"
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 80,
+                            "categoryCode": "5g Plans 200mbps",
+                            "categoryName": "chatbot plans",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": [
+                            {
+                                "priceId": 849,
+                                "productId": 677,
+                                "variantId": null,
+                                "productCode": "Quaeidexcepturipo",
+                                "variantCode": null,
+                                "priceCode": null,
+                                "paymentType": null,
+                                "currency": "966",
+                                "value": "83",
+                                "formatted": null,
+                                "priceType": "ONE_TIME",
+                                "regularPrice": null,
+                                "comparePrice": null,
+                                "savingsPercentage": null,
+                                "priceLabel": "186",
+                                "description": null,
+                                "chargeType": null,
+                                "billingEvent": null,
+                                "billingFrequency": null,
+                                "lines": null,
+                                "duration": null,
+                                "isActive": true,
+                                "isDefault": true
+                            }
+                        ],
+                        "productOfferingPrice": null,
+                        "installments": [
+                            {
+                                "id": 729,
+                                "productCode": "Quaeidexcepturipo",
+                                "variantCode": null,
+                                "planCode": "PLAN-MIX-MAX-105434",
+                                "installmentLabel": "installment label 1",
+                                "description": "dscrj;lfj;lasjdf;jasd",
+                                "months": 1,
+                                "monthlyAmount": 11.0,
+                                "totalAmount": null,
+                                "formatted": null,
+                                "interestRate": 677.0,
+                                "priceType": "RECURRING",
+                                "isDefault": true,
+                                "upFrontPayment": 888.0,
+                                "campaignType": "BASIC"
+                            }
+                        ]
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 670,
+                    "countryCode": null,
+                    "createdAt": "2026-01-29T07:46:01.000+00:00",
+                    "updatedAt": "2026-01-29T07:46:01.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Aliasvitaeillume",
+                    "name": "Xena Sutton",
+                    "description": "Quisquam perspiciatis cupiditate dolores nisi molestias recusandae Mollit harum nihil",
+                    "longDescription": "Quis aut doloremque adipisci reiciendis soluta quas",
+                    "productType": "PLAN",
+                    "productSubType": "PREPAID",
+                    "url": "Sint nobis in dolori",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Eosdelenitiestqu",
+                    "s4HanaSku": null,
+                    "externalIdentifier": "Consequatur hic nec",
+                    "externalTaxId": "Consequatur odit qu",
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Incidunt magna est ",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 79,
+                            "categoryCode": "5g Plans",
+                            "categoryName": "chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                },
+                {
+                    "id": 669,
+                    "countryCode": null,
+                    "createdAt": "2026-01-29T07:45:22.000+00:00",
+                    "updatedAt": "2026-01-29T07:45:22.000+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "tenantCode": "PA",
+                    "code": "Animiipsammolesti",
+                    "name": "Scarlet Weber",
+                    "description": "Quia qui sunt omnis voluptatibus tempora Nam optio perspiciatis facilis dolores dolore nulla voluptatem",
+                    "longDescription": "Voluptatem doloribus facilis veniam dolorem quis quis magni obcaecati qui id ullam dolores",
+                    "productType": "DEVICE",
+                    "productSubType": "MOBILE",
+                    "url": "Est inventore aut du",
+                    "multidimensional": false,
+                    "hasVariants": false,
+                    "variantCount": 0,
+                    "sku": "Eumlaborequisaute",
+                    "s4HanaSku": "Nisisaepepariatur",
+                    "externalIdentifier": "Voluptatibus ipsum ",
+                    "externalTaxId": "Veniam debitis elit",
+                    "basePrice": null,
+                    "sellingPrice": null,
+                    "brand": "Aut omnis impedit e",
+                    "productStatus": "ACTIVE",
+                    "isEnabled": true,
+                    "isDeleted": false,
+                    "relatedProductsSkus": [
+                        
+                    ],
+                    "productsBroughtTogether": [
+                        
+                    ],
+                    "images": [
+                        
+                    ],
+                    "specifications": {
+                        
+                    },
+                    "plans": null,
+                    "catalogCode": "MIX-PLANS",
+                    "categories": [
+                        {
+                            "id": 79,
+                            "categoryCode": "5g Plans",
+                            "categoryName": "chatbot",
+                            "primary": true
+                        }
+                    ],
+                    "variants": null,
+                    "taxes": [
+                        
+                    ],
+                    "additionalCharges": [
+                        
+                    ],
+                    "pricing": {
+                        "prices": null,
+                        "productOfferingPrice": null,
+                        "installments": null
+                    },
+                    "inventory": null,
+                    "journey": null
+                }
+            ],
+            "currentPage": 0,
+            "pageSize": 10,
+            "totalElements": 498,
+            "totalPages": 50,
+            "hasNext": true,
+            "hasPrevious": false,
+            "isFirst": true,
+            "isLast": false
+        }
+    }
+}

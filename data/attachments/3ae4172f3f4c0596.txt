@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "message": "Abandoned carts retrieved successfully",
+    "responseCode": 20000,
+    "data": [
+        
+    ],
+    "pagination": {
+        "currentPage": 0,
+        "pageSize": 10,
+        "totalElements": 0,
+        "totalPages": 0,
+        "hasNext": false,
+        "hasPrevious": false,
+        "last": true,
+        "first": true
+    }
+}
